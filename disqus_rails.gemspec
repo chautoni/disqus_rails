@@ -10,8 +10,8 @@ Gem::Specification.new do |s|
   s.authors     = ['Thach Chau']
   s.email       = ['rog.kane@gmail.com']
   s.homepage    = 'http://github.com/chautoni'
-  s.summary     = 'Summary of DisqusRails.'
-  s.description = 'Description of DisqusRails.'
+  s.summary     = 'Asynchronous integration Disqus with your Rails application'
+  s.description = 'This gem provide a simple solution to setup/integrate Disqus discussion platform into your Rails application'
 
   s.files = Dir['{app,config,db,lib}/**/*'] + ['MIT-LICENSE', 'Rakefile', 'README.rdoc']
 
