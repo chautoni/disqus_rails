@@ -28,6 +28,14 @@ Set the `disqus_shortname` variable (will raise an exception if it has not been 
 DisqusRails.disqus_shortname = 'my-staging-site'
 ```
 
+Additional variables/configurations may be set also, please refer to [Disqus documentation](http://help.disqus.com/customer/portal/articles/472098-javascript-configuration-variables)
+
+```ruby
+DisqusRails.disqus_identifier = 'my-identifier'
+DisqusRails.disqus_title = 'my-disqus_title'
+DisqusRails.disqus_url = 'my-disqus_url'
+```
+
 Then embedding the `disqus_tag` into your view
 ```ruby
 <%= disqus_tag %>
