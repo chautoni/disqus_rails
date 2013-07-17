@@ -13,7 +13,7 @@ Gem::Specification.new do |s|
   s.summary     = 'Asynchronous integration Disqus with your Rails application'
   s.description = 'This gem provide a simple solution to setup/integrate Disqus discussion platform into your Rails application'
 
-  s.files = Dir['{app,config,db,lib}/**/*'] + ['MIT-LICENSE', 'Rakefile', 'README.rdoc']
+  s.files = Dir['{app,config,db,lib}/**/*'] + ['MIT-LICENSE', 'Rakefile', 'README.md']
 
   s.add_dependency 'rails', '~> 3.2.12'
   s.add_development_dependency 'sqlite3'
