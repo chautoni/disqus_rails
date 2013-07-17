@@ -1,6 +1,6 @@
 # disqus_rails
 
-[![Build Status](https://travis-ci.org/chautoni/jquery_mockjax_rails.png?branch=master)](https://travis-ci.org/chautoni/jquery_mockjax_rails)
+[![Build Status](https://travis-ci.org/chautoni/disqus_rails.png?branch=master)](https://travis-ci.org/chautoni/disqus_rails)
 
 This gem provides:
 
